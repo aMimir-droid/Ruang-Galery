@@ -1,0 +1,15 @@
+{
+	"name": "react-exercise-netlify",
+	"course": "Frontend Web Development with React",
+	"title": "Exercise - Deployment into Netlify",
+	"order": 999,
+	"topics": [
+		"netlify"
+	],
+	"image": "react-js",
+	"command": "npm run test",
+	"totalTestCase": 4,
+	"metadata": {
+		"type": "exercise"
+	}
+}
